@@ -1,3 +1,3 @@
 # project_euler
 
-test
+test_2

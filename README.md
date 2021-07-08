@@ -1,4 +1,4 @@
-# project_euler
+# project_euler & other python exercises
 
 Starting with the first 100 problems.
 

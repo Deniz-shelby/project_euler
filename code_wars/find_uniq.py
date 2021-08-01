@@ -9,7 +9,8 @@ arr = ([1,2,3,1,2,1])
 
 
 def find_uniq(arr):
-    all_numbers = set(arr)
+    
+
     return all_numbers
 
 

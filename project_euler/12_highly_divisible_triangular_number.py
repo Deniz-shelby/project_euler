@@ -46,5 +46,5 @@ def highly_divisible_triangular_number(n):
         if len(get_factors(triangle_number)) > 500:
             return triangle_number
 
-print(highly_divisible_triangular_number(1000))
+print(highly_divisible_triangular_number(10000))
 

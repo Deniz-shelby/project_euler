@@ -33,7 +33,7 @@ def get_triangle_number(n):
 def get_factors(n):
     factors = []
     for i in range(1, n + 1):
-        if n % i == 0:
+        if n % i:
             factors.append(i)
     return factors
 
